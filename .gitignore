@@ -1,0 +1,5 @@
+# Ignore files in the db/ directory
+db/
+
+# Ignore the testrepository folder
+test_repositories/
