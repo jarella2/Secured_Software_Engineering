@@ -13,7 +13,7 @@ This project is a research project about automated security test case generation
 
 # Usage
 To use this project, you need to run the following command:
-`
+``` bash
  python3.10 src/basic_testcase_generation.py <path_to_test_repo> 
- `
+```
 

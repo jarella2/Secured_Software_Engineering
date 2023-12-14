@@ -3,3 +3,6 @@ db/
 
 # Ignore the testrepository folder
 test_repositories/
+
+# Ignore any docuuments in the doc/ directory
+doc/
